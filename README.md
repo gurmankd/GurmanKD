@@ -1,5 +1,10 @@
-## Hi there 👋
+<h2 align="center">GurmanKD</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurmankd&show_icons=true&locale=en&layout=compact" alt="gurmankd" /></p>
+<p align="center">
+  Software Engineer
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurmankd&show_icons=true&locale=en" alt="gurmankd" /></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanKD&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
+</p>
+
